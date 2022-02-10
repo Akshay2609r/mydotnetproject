@@ -1,0 +1,8 @@
+.vscode/*
+!.vscode/settings.json
+!.vscoce/tasks.jsob
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+.history/

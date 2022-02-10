@@ -4,6 +4,15 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+.vscode/*
+!.vscode/settings.json
+!.vscoce/tasks.jsob
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+.history/
+
 # Other files and folders
 .settings/
 
